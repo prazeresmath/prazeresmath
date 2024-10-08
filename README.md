@@ -20,7 +20,7 @@
     <img alt="html5" align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     
 </div>
- im 24 years old and I am studing computer science at the college. I am in my third period at the college and i'm currently learning JAVA, C and some principles of data base
+ im 24 years old and I am studing computer science at the college. I am in my last period at the college and i'm currently learning JAVA, C and some principles of data base
 I'm currently working as a dev trainee and I work using asp.net, PHP, javascript and MYSQL. I'm interested in learning more of javascript and react for learn some of development of mobile apps
 I'm trying new challenges looking for work as dev in a foreign country.
 
